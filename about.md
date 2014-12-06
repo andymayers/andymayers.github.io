@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a researcher with the <a href="http://www.opensecrets.org/">Center for Responsive Politics</a>,
+focusing on political action committees, outside spending, and campaign expenditures. In addition to 
+writing for CRP's blog, I occasionally write about campaign finance, transparency, civic engagement,
+and the ethics of activism for Boston Review.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+This site is mostly a way for me to fool around with GitHub, Python, and HTML to practice what I've
+learned. I also enjoy adding to my data skills in R and SQL.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andrew@mayersohn.com](mailto:andrew@mayersohn.com)
