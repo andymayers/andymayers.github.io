@@ -5,6 +5,7 @@ title: Corruption Is All Things to All People
 
 I saw Sarah Chayes speak at Politics and Prose last Wednesday to promote her new book, Thieves of State: Why Corruption Threatens Global Security. The (mostly positive) [Washington Post review](http://www.washingtonpost.com/news/book-party/wp/2015/01/16/does-a-corrupt-government-breed-political-violence/) sums up Chayes’ case as follows: 
 
+
 > "The target of her zeal is government corruption around the world — an old challenge but one she recasts in urgent and novel terms. The trouble with fraud and bribery and the rest is not simply their moral evil or economic toll, Chayes argues. The real danger is that an abusive government can elicit violent responses, including religious extremism, putting the survival of the state at risk. The case she makes is anecdotal but alarming."
 
 Read a few of Chayes’ examples of the “abusive government” that she witnessed in Afghanistan and you’ll have a good idea how it produces so much seething, impotent rage, even if that rage isn’t always and everywhere transmuted into violence.
