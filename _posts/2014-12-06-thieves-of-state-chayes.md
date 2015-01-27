@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Post ToS
+title: Corruption, All Things to All People
 ---
 
 I saw Sarah Chayes speak at Politics and Prose last Wednesday to promote her new book, [Thieves of State: Why Corruption Threatens Global Security](http://www.thievesofstate.com/). The (mostly positive) [Washington Post review](http://www.washingtonpost.com/news/book-party/wp/2015/01/16/does-a-corrupt-government-breed-political-violence/) sums up Chayes’ case as follows: 
