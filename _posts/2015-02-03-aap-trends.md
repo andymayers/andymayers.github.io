@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AAPTrends
+title: Exciting Frontiers in Transparency, Sort Of
 ---
 
 If you’re having a hard time getting excited about this year’s slate of American 
