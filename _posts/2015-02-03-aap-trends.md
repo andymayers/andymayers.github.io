@@ -6,7 +6,7 @@ title: Exciting Frontiers in Transparency, Sort Of
 If you’re having a hard time getting excited about this year’s slate of American 
 elections (what, the [Jacksonville mayoral election](http://www.dailykos.com/story/2015/01/28/1360743/-Daily-Kos-Elections-2015-election-calendar)
 isn't doing it for you?), now is a good time to remember that there are other democracies and some of 
-them are also fascinating. Other than perhaps some of the Nigerian elections, the most 
+them are also fascinating. Other than perhaps the Nigerian elections, the most 
 interesting race going on right now is in Delhi, where voters will elect a new legislature
 later this week. The main contenders are the Aam Aadmi Party of anti-corruption activist
 [Arvind Kejriwal](https://en.wikipedia.org/wiki/Arvind_Kejriwal), which briefly ruled 
@@ -57,7 +57,8 @@ It turns out that when you voluntarily put a bunch of sensitive information abou
 party online, people comb through it and are generally able to turn up one or two things
 that look fishy. In the AAP's case, these range from trivial accounting errors to [possibly
 more serious transgressions](http://www.firstpost.com/politics/mystery-money-malicious-move-desperate-bjp-says-aaps-meera-sanyal-2076485.html).
-(The AAP is also running into the same pitfall that tripped up Lessig and his allies; 
+(The AAP is also running into the same pitfall that 
+[tripped up Lessig and his allies](http://www.wsj.com/articles/scott-blackburn-not-even-reformers-can-follow-campaign-finance-law-1420503172); 
 when you want to hold politicians to a higher standard, people apply those standards to you in ways that are 
 [exacting and sometimes unfair](http://www.thehindu.com/elections/delhi2015/aap-funding-questioned/article6851718.ece).) 
 
