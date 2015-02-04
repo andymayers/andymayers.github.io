@@ -24,17 +24,16 @@ least the different role of individual candidates in a parliamentary system, but
 
 Control of India’s 19th most populous state* probably doesn’t have too many 
 implications for the United States, but this election is surprisingly relevant to American 
-political debates. Given that both chief ministerial candidates are trading on their 
-credentials as reformers, accusations of corruption have featured prominently. While 
-Kejriwal and Bedi made their names fighting lower-level venality, the last days of the 
-election have seen both parties fling accusations that should sound very familiar to 
-American political observers -- self-dealing candidates, shady donations, and more. 
+political debates. Arguments about corruption -- how to fight it and who is guilty of it
+-- have featured prominently. While Kejriwal and Bedi made their names fighting lower-level 
+venality, the last days of the election have seen both parties fling accusations that should sound very familiar to 
+American political observers: self-dealing candidates, shady donations, and more. 
 
 The parallel is interesting to me because the AAP has done something that no 
 American party has attempted, as far as I know: They’ve put all sorts of information 
 about their donations online in an accessible format.
 
-[AAPTrends.com](http://www.aaptrends.com) is a treasure trove of of data I desperately wish I could get from
+[AAPTrends.com](http://www.aaptrends.com) is a treasure trove of data I desperately wish I could get from
 the Democratic and Republican parties. It breaks down the parties funding by date, state and country(!)
 of origin, district, and donation size. This kind of geographic analysis is something that
 we at the Center for Responsive Politics do for FEC data -- at great expense, at least in
