@@ -41,7 +41,7 @@ we at the Center for Responsive Politics do for FEC data -- at great expense, at
 person-hours -- but few if any other organizations do the same, and certainly not the 
 parties themselves. 
 
-![Donations by district](http://andymayers.github.io/assets/aap_screenshot)
+![Donations by district](http://andymayers.github.io/assets/aap_screenshot.png)
 
 At one point, AAPTrends apparently featured more individual donor data, 
 but took it down because donors feared retaliation -- another issue familiar to American 
@@ -57,7 +57,7 @@ Kennedy's vision was a pipe dream.
 It turns out that when you voluntarily put a bunch of sensitive information about your
 party online, people comb through it and are generally able to turn up one or two things
 that look fishy. In the AAP's case, these range from trivial accounting errors to [possibly
-more serious violations](http://www.firstpost.com/politics/mystery-money-malicious-move-desperate-bjp-says-aaps-meera-sanyal-2076485.html).
+more serious transgressions](http://www.firstpost.com/politics/mystery-money-malicious-move-desperate-bjp-says-aaps-meera-sanyal-2076485.html).
 (The AAP is also running into the same pitfall that tripped up Lessig and his allies; 
 when you want to hold politicians to a higher standard, people apply those standards to you in ways that are 
 [exacting and sometimes unfair](http://www.thehindu.com/elections/delhi2015/aap-funding-questioned/article6851718.ece).) 
