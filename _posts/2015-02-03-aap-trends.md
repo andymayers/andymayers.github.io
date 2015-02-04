@@ -71,8 +71,8 @@ a few understaffed groups like CRP and the [National Institute on Money in State
 trying to wrangle the data into usable form, and 
 [occasional one-off disclosures](http://www.washingtonpost.com/blogs/plum-line/wp/2015/01/21/center-for-american-progress-poised-to-wield-influence-over-2016-reveals-its-top-donors/) 
 by political actors under pressure. As a result, what we know about who funds our politics
-and how the money is spent is a bit of a hodgepodge (did I use that word already? -- let's
-go with a potpourri, a salmagundi, or perhaps a farrago). That serves incumbent interests 
+and how the money is spent is a -- I already used the word "hodgepodge", so let's
+go with a potpourri, a salmagundi, or perhaps a farrago. That serves incumbent interests 
 pretty well and is therefore not likely to change.  
 
 *Technically a territory, much like the District of Columbia
