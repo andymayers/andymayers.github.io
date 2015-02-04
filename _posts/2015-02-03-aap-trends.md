@@ -41,7 +41,7 @@ we at the Center for Responsive Politics do for FEC data -- at great expense, at
 person-hours -- but few if any other organizations do the same, and certainly not the 
 parties themselves. 
 
-![Donations by district]({{http://andymayers.github.io}}/assets/aap_screenshot)
+![Donations by district](http://andymayers.github.io/assets/aap_screenshot)
 
 At one point, AAPTrends apparently featured more individual donor data, 
 but took it down because donors feared retaliation -- another issue familiar to American 
