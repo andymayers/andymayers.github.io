@@ -7,7 +7,7 @@ Last week, I wrote a piece for _Boston Review_ about the uses and limits of outr
 I forgot to link to it here, but figured I might as well do so now that Rudy Giuliani
 has forced his way back into the national consciousness (and 
 [trended on Twitter for two days in a row](https://twitter.com/search?q=Giuliani&src=tren)).
- [In the piece, I talk about why it's occasionally OK and necessary to get outraged 
+ In the piece, [I talk about why it's occasionally OK and necessary to get outraged 
 at the Giulianis of the world](http://bostonreview.net/blog/andrew-mayersohn-anatomy-outrage):
 
 > Precisely because the topic is so important, the argument goes, we shouldn’t focus on the most egregiously offensive or incorrect statements, since that poisons public discourse and distracts us from engaging with the strongest arguments for a given political position. We all know that the offender (Giuliani, for example) is a provocateur, so let’s ignore him or her and debate the issues like mature adults.
