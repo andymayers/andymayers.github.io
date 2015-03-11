@@ -1,0 +1,10 @@
+---
+title: "Testing R Markdown"
+author: "Andrew Mayersohn"
+date: "March 11, 2015"
+output: html_document
+---
+
+```{r qplot, fig.width=4, fig.height=3, message=FALSE}
+qplot(vap, total, data=ss, xlab='Voting Age Population', ylab = 'Race Spending') + geom_smooth()
+```
