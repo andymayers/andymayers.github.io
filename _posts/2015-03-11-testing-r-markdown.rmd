@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing R Markdown
+output: md_document
 ---
 
 '''{r qplot, fig.width=4, fig.height=3, message=FALSE}
