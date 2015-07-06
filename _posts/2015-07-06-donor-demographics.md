@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two New Blog Posts
+title: Who Are the Mega-Donors?
 ---
 
 I co-wrote a series of posts for the OpenSecrets blog about the demographics of 2014's
