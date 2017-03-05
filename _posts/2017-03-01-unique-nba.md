@@ -7,31 +7,31 @@ This year's rookie class is mostly notable for its total absence of impact, but 
 compensation has been the number of other young players putting up remarkable or incongruous
 stat lines. Here are a few of my favorites:
 
-_Nikola Jokic_
+*Nikola Jokic*
 
 We may be approaching the end of the period when Jokic could accurately described as 
 ["underrated"](https://fivethirtyeight.com/features/nikola-jokic-is-suddenly-one-of-the-best-young-nba-players-of-all-time/)
 , but I'm not ready to stop gawking at his numbers just yet.
 Among all age-21 seasons in NBA history, here's where Jokic currently ranks:
 
--- 1st in true shooting
--- 15th in rebound rate
--- 2nd in assist rate among bigs
--- 5th in win shares per 48 minutes, behind Anthony Davis, Shaq, Kevin Durant, and LeBron.
+* 1st in true shooting
+* 15th in rebound rate
+* 2nd in assist rate among bigs
+* 5th in win shares per 48 minutes, behind Anthony Davis, Shaq, Kevin Durant, and LeBron.
 
 If we start combining those thresholds, we can drop the age requirement and he basically stands either
 alone or with Hall of Famers.
 
--- 60.0% TS% and two assists per turnover: Jokic and Brad Daugherty are the only centers.
--- 64.0% TS% and 25% assist rate: Jokic and LeBron (twice) are the only non-point guards.
--- 25% assist rate and 18% rebound rate: Jokic, Kevin Garnett (2), Joakim Noah, and DeMarcus
+* 60.0% TS% and two assists per turnover: Jokic and Brad Daugherty are the only centers.
+* 64.0% TS% and 25% assist rate: Jokic and LeBron (twice) are the only non-point guards.
+* 25% assist rate and 18% rebound rate: Jokic, Kevin Garnett (2), Joakim Noah, and DeMarcus
 Cousins (this year).
--- .600/.350/.800 from 2PT/3PT/FT: Durant (this year), Steve Kerr, Chris Mullin.
+* .600/.350/.800 from 2PT/3PT/FT: Durant (this year), Steve Kerr, Chris Mullin.
 
 You get the picture. He also has the [highest RPM](https://www.espn.com/nba/statistics/rpm/_/sort/RPM)
  (ESPN's box score metric) of any player on a losing team.
  
-_Rudy Gobert_
+*Rudy Gobert*
  
  Gobert, age 24, currently has the 21st-highest season true shooting percentage ever; only one player
  ahead of him (Cedric Maxwell) was younger (23). He's doing this while leading the league in 
@@ -45,7 +45,7 @@ _Rudy Gobert_
  he's off the floor) and put up a FG% of .778 in December, the third-highest since 1983-84 for 
  that month.
  
- _Otto Porter_
+ *Otto Porter*
  
  Porter's turnover rate is currently lower than any career mark, and would be one of the 20 lowest
  ever [in a season](http://www.basketball-reference.com/leaders/tov_pct_season.html). Virtually
@@ -53,7 +53,7 @@ _Rudy Gobert_
  points off his turnover rate each season in the league. He's currently one of 15 players ever with 
  twice as many steals as turnovers in a season.
  
- _Dewayne Dedmon_
+ *Dewayne Dedmon*
  
  Dedmon showed signs of life last year with Orlando when his true shooting improved by 40 points
  and his turnover rate fell by a third, but San Antonio has turned him into a gem. Dedmon is currently
@@ -64,7 +64,7 @@ _Rudy Gobert_
  [three best lineups](http://www.basketball-reference.com/teams/SAS/2017/lineups/)
   all feature Dedmon.
  
- _Giannis Antetokounmpo_
+ *Giannis Antetokounmpo*
  
  Giannis has piled up so many absurd line scores this season that it's hard to pick a favorite.
  He piles up numbers in every phase of the game at age 22, and three-point shooting is effectively his only
